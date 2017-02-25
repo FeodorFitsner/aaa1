@@ -1,5 +1,5 @@
 environment:
   test:
-    secure: /LqjEnMSfmWPx+VR6AhR4A==
+    secure: /LqjEnMSfmWPx+VR6AhR4A000==
 install:
     ps: echo $Env:test
